@@ -1,5 +1,5 @@
-### Hi there 👋
-
+- 👋 Hi, I'm Johannes
+- 🤓 I'm interested in statistics (especially probability theory), computer science and AI.
 <!--
 **eko14jch/eko14jch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
