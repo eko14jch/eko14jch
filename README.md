@@ -1,5 +1,5 @@
-- 👋 Hi, I'm JG 
-- 🌱 I’m currently studying mathematics. 
+- 👋 Hi, I'm Johannes
+- 🌱 I’m currently studying mathematics at Lund University
 - 🤓 I love all kinds of problem solving, regardless of level and tangibility. 
 <!--
 **eko14jch/eko14jch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
